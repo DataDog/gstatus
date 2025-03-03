@@ -1,1 +1,2 @@
 glustercli==0.8.3
+packaging
